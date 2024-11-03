@@ -1,0 +1,9 @@
+E1201 [2024-11-03 08:20:10] Failed to allocate memory for buffer in module X.
+W3335 [2024-11-03 08:17:53] Variable 'x' is uninitialized and may cause unpredictable behavior.
+I1102 [2024-11-03 08:15:22] Simulation started successfully.
+W3335 [2024-11-03 08:18:01] Unused variable detected in function 'calculate'.
+E1201 [2024-11-03 08:21:12] Out of bounds access in module Y.
+I1102 [2024-11-03 08:22:34] Compilation completed without errors.
+W3335 [2024-11-03 08:23:45] Possible data overflow in calculation.
+E1201 [2024-11-03 08:25:18] Null pointer dereference in module Z.
+I1102 [2024-11-03 08:26:59] Simulation checkpoint reached.
